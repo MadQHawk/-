@@ -7,4 +7,5 @@ https://raw.githubusercontent.com/MadQHawk/shadowrocket-rule/master/AI.list
 
 鸣谢
 基础规则来自下面大佬
+
 @blackmatrix7
