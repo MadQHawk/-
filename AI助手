@@ -1,37 +1,35 @@
 #智能助手
 #copilot
-HOST,api.msn.com
-HOST,assets.msn.com
-HOST,copilot.microsoft.com
-HOST,gateway.bingviz.microsoft.net
-HOST,in.appcenter.ms
-HOST,location.microsoft.com
-HOST,odc.officeapps.live.com  
-HOST,r.bing.com  
-HOST,self.events.data.microsoft.com  
-HOST,services.bingapis.com  
-HOST-keyword,microsoftapp  
-HOST-SUFFIX,bing-shopping.microsoft-falcon.io  
-host-keyword,copilot  
-host,www.bing.com  
-host-suffix,bing.com  
-host-suffix,bing.net  
-host-keyword,clarity  
-host-keyword,designerapp  
-host,ecs.office.com  
+DOMAIN,api.msn.com
+DOMAIN,assets.msn.com
+DOMAIN,copilot.microsoft.com
+DOMAIN,gateway.bingviz.microsoft.net
+DOMAIN,in.appcenter.ms
+DOMAIN,location.microsoft.com
+DOMAIN,odc.officeapps.live.com  
+DOMAIN,r.bing.com  
+DOMAIN,self.events.data.microsoft.com  
+DOMAIN,services.bingapis.com  
+DOMAIN-keyword,microsoftapp  
+DOMAIN-SUFFIX,bing-shopping.microsoft-falcon.io  
+DOMAIN-keyword,copilot  
+DOMAIN,www.bing.com  
+DOMAIN-suffix,bing.com  
+DOMAIN-suffix,bing.net  
+DOMAIN-keyword,clarity  
+DOMAIN-keyword,designerapp  
+DOMAIN,ecs.office.com  
 
-# https://openai.com/
-# created by blackmatrix7 
-# repo:https://github.com/blackmatrix7/ios_rule_script
-host,cdn.auth0.com  
-host,o33249.ingest.sentry.io  
-host-SUFFIX,ai.com  
-host-SUFFIX,challenges.cloudflare.com  
-host-SUFFIX,identrust.com  
-host-SUFFIX,stripe.com  
-host-KEYWORD,openai  
+# chatgpt
+DOMAIN,cdn.auth0.com  
+DOMAIN,o33249.ingest.sentry.io  
+DOMAIN-SUFFIX,ai.com  
+DOMAIN-SUFFIX,challenges.cloudflare.com  
+DOMAIN-SUFFIX,identrust.com  
+DOMAIN-SUFFIX,stripe.com  
+DOMAIN-KEYWORD,openai  
 
-# https://claude.ai/
-# created by limbopro
-# repo:https://github.com/limbopro/Profiles4limbo/
-host-KEYWORD,claude  
+#claude
+DOMAIN-KEYWORD,claude  
+
+#谷歌
