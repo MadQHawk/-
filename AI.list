@@ -29,7 +29,4 @@ DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,stripe.com  
 DOMAIN-KEYWORD,openai  
 
-#claude
-DOMAIN-KEYWORD,claude  
-
 #谷歌
