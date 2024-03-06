@@ -2,24 +2,21 @@
 #copilot
 DOMAIN,api.msn.com
 DOMAIN,assets.msn.com
-DOMAIN,copilot.microsoft.com
 DOMAIN,gateway.bingviz.microsoft.net
 DOMAIN,in.appcenter.ms
-DOMAIN,location.microsoft.com
-DOMAIN,odc.officeapps.live.com  
-DOMAIN,r.bing.com  
-DOMAIN,self.events.data.microsoft.com  
+DOMAIN,odc.officeapps.live.com    
 DOMAIN,services.bingapis.com  
 DOMAIN-keyword,microsoftapp  
 DOMAIN-SUFFIX,bing-shopping.microsoft-falcon.io  
 DOMAIN-keyword,copilot  
-DOMAIN,www.bing.com  
 DOMAIN-suffix,bing.com  
 DOMAIN-suffix,bing.net  
 DOMAIN-keyword,clarity  
 DOMAIN-keyword,designerapp  
 DOMAIN,ecs.office.com  
-DOMAIN,login.microsoftonline.com
+DOMAIN-suffix,microsoftonline.com
+DOMAIN-suffix,microsoft.com
+DOMAIN-suffix,bingviz.com
 
 # chatgpt
 DOMAIN,cdn.auth0.com  
