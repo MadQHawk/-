@@ -1,11 +1,11 @@
 #智能助手
 #copilot
 DOMAIN,api.msn.com
-DOMAIN,assets.msn.com
+DOMAIN-suffix,msn.com
 DOMAIN,gateway.bingviz.microsoft.net
 DOMAIN,in.appcenter.ms
 DOMAIN,odc.officeapps.live.com    
-DOMAIN,services.bingapis.com  
+DOMAIN-suffix,bingapis.com  
 DOMAIN-keyword,microsoftapp  
 DOMAIN-SUFFIX,bing-shopping.microsoft-falcon.io  
 DOMAIN-keyword,copilot  
@@ -13,7 +13,7 @@ DOMAIN-suffix,bing.com
 DOMAIN-suffix,bing.net  
 DOMAIN-keyword,clarity  
 DOMAIN-keyword,designerapp  
-DOMAIN,ecs.office.com  
+DOMAIN-suffix,office.com  
 DOMAIN-suffix,microsoftonline.com
 DOMAIN-suffix,microsoft.com
 DOMAIN-suffix,bingviz.com
