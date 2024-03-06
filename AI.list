@@ -17,6 +17,7 @@ DOMAIN,ecs.office.com
 DOMAIN-suffix,microsoftonline.com
 DOMAIN-suffix,microsoft.com
 DOMAIN-suffix,bingviz.com
+DOMAIN，amp-api-edge.apps.apple.com #pro支付
 
 # chatgpt
 DOMAIN,cdn.auth0.com  
