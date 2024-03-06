@@ -19,6 +19,7 @@ DOMAIN-suffix,bing.net
 DOMAIN-keyword,clarity  
 DOMAIN-keyword,designerapp  
 DOMAIN,ecs.office.com  
+DOMAIN,login.microsoftonline.com
 
 # chatgpt
 DOMAIN,cdn.auth0.com  
