@@ -1,0 +1,52 @@
+#!name=自写代理
+#!desc=用于自抓取广告、代理大佬网站
+
+[Rule]
+
+#微博
+DOMAIN,bootpreload.uve.weibo.com, reject
+DOMAIN,adstrategy.biz.weibo.com,reject
+
+#中信银行
+DOMAIN,api.map.baidu.com,reject
+DOMAIN,bcrs1.intsig.net,reject
+DOMAIN,imcs.citicbank.com,reject 
+DOMAIN,ump.szcdn.creditcard.ecitic.com,reject
+
+#必胜客
+DOMAIN,adttrackingprd.hwwt8.com,reject
+
+#大麦网
+#DOMAIN-keyword,alicdn,reject 
+
+#美团外卖
+DOMAIN,img.meituan.net,reject
+
+#12306
+Domain,ad.12306.cn,reject
+
+#大佬网站
+DOMAIN-keyword, bulianglin, proxy
+DOMAIN-keyword, buliang0, proxy
+DOMAIN-keyword, astrill, proxy
+DOMAIN-keyword, boxjs, proxy
+
+#放行
+DOMAIN, websgsadvert.sanguosha.com,direct
+DOMAIN-keyword,kfc,direct
+
+#VPS相关
+DOMAIN-suffix,namesilo.com,proxy
+DOMAIN-keyword,fastlink,proxy
+DOMAIN-keyword,gcore,proxy
+
+#国外运营商
+#DOMAIN-suffix,one.nz,proxy
+#DOMAIN-keyword,vodafone,proxy
+DOMAIN-suffix,cht.com.tw,proxy
+
+#某某
+DOmain-keyword,hanime1,proxy
+
+#游戏
+Domain-keyword,sanguosha,direct
